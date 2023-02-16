@@ -2,6 +2,9 @@
 
 This is a 2022 school project for RunTime T-Errors
 
+Website: [Visit](https://bulky.b4a.app/)
+App (Android): [Download](https://studentujac-my.sharepoint.com/:u:/g/personal/220023913_student_uj_ac_za/EZNdosxwWjlEhSablidZPyABAuOwY92Znh554M3gjDBLnQ?e=cqW3A6)
+
 ## Team
 
 <ul>
