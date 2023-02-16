@@ -1,4 +1,4 @@
-# Welcome to Buly
+# Welcome to Bulky
 
 This is a 2022 school project for RunTime T-Errors
 
