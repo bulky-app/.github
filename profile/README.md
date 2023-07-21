@@ -1,3 +1,5 @@
+ <div align="center">
+
 # Welcome to Bulky
 
 This is a 2022 school project for RunTime T-Errors
@@ -14,3 +16,6 @@ App (Android): [Download](https://github.com/bulky-app/.github/raw/main/assets/b
 - <a href="https://github.com/Axolem">@Axole</a> - Team Leader, Dev
 - <a href="https://github.com/BMakgopa">@Ofentse Bethuel</a> - UX, Dev
 - <a href="https://github.com/junior-03">@Junior</a> - UX, Dev
+
+
+</div>
